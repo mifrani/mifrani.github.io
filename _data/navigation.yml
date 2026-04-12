@@ -15,8 +15,11 @@ main:
   #- title: "Blog Posts"
    # url: /year-archive/
     
-  - title: "CV"
-    url: /CV_April_2026.pdf
+  - title: "CV (FR)"
+    url: /CV_April_2026_FR.pdf
+
+  - title: "CV (EN)"
+    url: /CV_April_2026_EN.fr
     
   #- title: "Guide"
    # url: /markdown/

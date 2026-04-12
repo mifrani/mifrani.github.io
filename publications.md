@@ -14,3 +14,7 @@ author_profile: true
 * Mifrani, A. (2024). Efficient points in a sum of sets of alternatives. <em>arXiv preprint arXiv:2412.16331</em>.
 * Mifrani, A. (2024). Multiple objective linear programming over the probability simplex. <em>arXiv preprint arXiv:2412.19598</em>.
 * Mifrani, A., Saint-Pierre, P., & Savy, N. (2023). A multi-objective model search algorithm for linear regression. To appear in <em>International Journal of Metaheuristics</em>.
+
+## Software
+
+* Mifrani, A. (2026). multiobjectiveMDP: Solution methods for multi-objective Markov decision processes. R package version 1.0.0, https://CRAN.R-project.org/package=multiobjectiveMDP.

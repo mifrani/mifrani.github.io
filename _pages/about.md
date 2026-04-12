@@ -8,9 +8,11 @@ redirect_from:
 ---
 
 
-Welcome! I'm pursuing a Ph.D. in applied mathematics at the [University of Toulouse](https://en.univ-toulouse.fr/). My work as a junior researcher at the [Toulouse Mathematics Institute](https://math.univ-toulouse.fr/en/) involves developing multiobjective optimization techniques for the analysis and solution of problems of sequential decision making under uncertainty. I've been teaching undergraduate mathematics at the College of Science and Engineering since 2022.
+I'm currently a researcher at [IFP Energies nouvelles](https://www.ifpenergiesnouvelles.fr/), where I develop decision-support tools to help logistics companies identify cost-effective pathways for decarbonizing road freight. My work integrates environmental, economic and operational factors to guide fleet renewal strategies.  
 
-I attended [INP](https://www.inp-toulouse.fr/en/index.html) from 2019 to 2022, earning an M.Sc.Eng. in industrial and systems engineering. Born and raised in [Morocco](https://en.wikipedia.org/wiki/Safi,_Morocco), I've resided in France for almost five years now.
+I hold a Ph.D. in applied mathematics from the [University of Toulouse](https://www.univ-tlse3.fr/). My dissertation investigates a model of sequential decision making for dynamic environments where multiple criteria enter simultaneously into the assessment and comparison of policy alternatives. I taught undergraduate mathematics at the College of Science and Engineering between 2022 and 2025.
+
+Prior to joining the University of Toulouse, I attended [INP Toulouse](https://www.inp-toulouse.fr/en/index.html) from 2019 to 2022, earning an M.Sc.Eng. in industrial and systems engineering. Born and raised in [Morocco](https://en.wikipedia.org/wiki/Safi,_Morocco), I've resided in France for almost six years now.
 
 Feel free to write to me at <a href="mailto:anas.mifrani@math.univ-toulouse.fr">anas [dot] mifrani [at] math [dot] univ-toulouse [dot] fr</a>.
 

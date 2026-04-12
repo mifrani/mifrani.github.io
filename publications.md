@@ -17,4 +17,4 @@ author_profile: true
 
 ## Software
 
-* Mifrani, A. (2026). multiobjectiveMDP: Solution methods for multi-objective Markov decision processes. R package version 1.0.0, [https://CRAN.R-project.org/package=multiobjectiveMDP].
+* Mifrani, A. (2026). multiobjectiveMDP: Solution methods for multi-objective Markov decision processes. R package version 1.0.0, [https://CRAN.R-project.org/package=multiobjectiveMDP](https://CRAN.R-project.org/package=multiobjectiveMDP).

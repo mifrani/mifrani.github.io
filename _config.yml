@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Anas Mifrani"
   pronouns         : # example: "she/her"  
-  bio              : <font size="3">Ph.D. Candidate <br> Department of Mathematics <br> University of Toulouse</font>
+  bio              : <font size="3">Research Fellow<br>IFP Energies nouvelles</font>
   location         : #<font size="4">118 Route de Narbonne <br> Building 1R1, Room 105 <br> 31400 Toulouse, France</font>
-  employer         : #"University of Toulouse"
+  employer         : #"IFP Energies nouvelles"
   uri              : # URL
   email            : #"anas.mifrani@math.univ-toulouse.fr" 
 

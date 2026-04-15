@@ -17,7 +17,7 @@ author_profile: true
 
 ## Conference Articles
 
-* **Mifrani, A.**, Michel, P., Mendes Alves, B., & Chasse, A. (2026). A bicriteria mathematical programming model for strategic road freight fleet renewal under environmental and economic objectives. To be presented at the <em>Conference on Sustainable Mobility 2026</em> in Catania, Italy.
+* **Mifrani, A.**, Michel, P., Mendes Alves, B., & Chasse, A. (2026). A bicriteria mathematical programming model for strategic road freight fleet renewal under environmental and economic objectives. To be presented at the <em>2026 Conference on Sustainable Mobility</em> in Catania, Italy.
 
 ## Software
 

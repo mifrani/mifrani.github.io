@@ -12,7 +12,7 @@ title                    : "Anas Mifrani"
 title_separator          : "-"
 name                     : &name "Anas Mifrani"
 description              : &description "personal description"
-url                      : https://anmifrani.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mifrani.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  "" # the subpath of your site, e.g. "/blog"
 repository               : "mifrani/mifrani.github.io"
 

@@ -15,6 +15,10 @@ author_profile: true
 * **Mifrani, A.** (2024). Multiple objective linear programming over the probability simplex. <em>arXiv preprint arXiv:2412.19598</em>.
 * **Mifrani, A.**, Saint-Pierre, P., & Savy, N. (2023). A multi-objective model search algorithm for linear regression. To appear in <em>International Journal of Metaheuristics</em>.
 
+## Conference Articles
+
+* **Mifrani, A.**, Michel, P., Mendes Alves, B., & Chasse, A. (2026). A bicriteria mathematical programming model for strategic road freight fleet renewal under environmental and economic objectives. To be presented at the <em>Conference on Sustainable Mobility 2026, Catania, Italy</em>.
+
 ## Software
 
 * **Mifrani, A.** (2026). multiobjectiveMDP: Solution methods for multi-objective Markov decision processes. R package version 1.0.0, [https://CRAN.R-project.org/package=multiobjectiveMDP](https://CRAN.R-project.org/package=multiobjectiveMDP).
